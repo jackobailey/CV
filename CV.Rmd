@@ -1,0 +1,182 @@
+---
+title: "Jack Bailey"
+author: |
+  | jack.bailey@manchester.ac.uk
+  | +44 (0)7446 875623
+indent: no
+fontsize: 12pt
+geometry: margin = 1.15in
+subparagraph: yes
+compact-title: false
+classoption: a4paper
+output: 
+  bookdown::pdf_document2: 
+    latex_engine: xelatex
+    toc: false
+    keep_tex: false
+    includes:
+      in_header:
+        - _assets/rmd-preamble.tex
+    number_sections: false
+---
+
+# Appointments
+* \begin{minipage}[t]{\linewidth}
+\textbf{Research Associate, The British Election Study} \hfill 2020--2023\\
+University of Manchester
+\end{minipage}
+* \begin{minipage}[t]{\linewidth}
+\textbf{Visiting Fellow} \hfill Sept--Dec 2019\\
+The University of Texas at Austin
+\end{minipage}
+
+# Education
+
+* \begin{minipage}[t]{\linewidth}
+\textbf{PhD Politics} \hfill 2017--Present\\
+The University of Manchester
+\end{minipage}
+* \begin{minipage}[t]{\linewidth}
+\textbf{PGDip Social Research Methods and Statistics (Distinction)} \hfill 2016--2017\\
+The University of Manchester
+\end{minipage}
+* \begin{minipage}[t]{\linewidth}
+\textbf{MA Politics (Distinction)} \hfill 2011--2012 \\
+The University of Sheffield
+\end{minipage}
+* \begin{minipage}[t]{\linewidth}
+\textbf{BA (Hons.) Business Management} \hfill 2008--2011 \\
+The University of Sheffield
+\end{minipage}
+
+# Peer Reviewed Publications
+
+* Bailey, J. (2019). The fact remains: Party ID moderates how voters respond to economic change. *Electoral Studies*, 61(1), Available at: https://doi.org/10.1016/j.electstud.2019.102071
+
+# Papers Under Review
+
+* \begin{minipage}[t]{\linewidth}
+\textbf{Imperfect Perceptions? Latent Partisan Confounding and the Economic Vote} \\
+Contribution: Voters' responses to economic perception items measure both their economic perceptions and their party identification. I present a method to account for this using structural equation modelling. I find that around 30$\%$ of the variation in economic perception items is due to party identification and that this leads to the economic vote being overstated in conventional models.
+\end{minipage}
+* \begin{minipage}[t]{\linewidth}
+\textbf{Voting at the Intersection of Gender and Sexuality: Evidence from Britain (with Anna Sanders, Andrew Barclay, and Adam McDonnell)} \\
+Contribution: Research on LGBT+ voters is scant. We use proprietary data from YouGov to argue that LGBT+ voters should be both more socially-liberal and left-wing and, thus, more likely to have voted Remain in 2016 and Labour in 2015 and 2017.
+\end{minipage}
+* \begin{minipage}[t]{\linewidth}
+\textbf{Who cares if you vote? Partisan agreement and injunctive norms of voting (with Edward Fieldhouse and David Cutts)} \\
+Contribution: There is little research on who applies pressure on others to vote and why some are better than others at getting their acquaintances to vote. We show that citizens are more likely to perceive pressure to vote from fellow partisans and that it has a greater influence than pressure from those who support other parties.
+\end{minipage}
+
+# Papers In Progress
+
+* \begin{minipage}[t]{\linewidth}
+\textbf{Political Surveys Worsen Partisan Bias in Reported Economic Perceptions} \\
+Contribution: We know that party identification biases how voters report their economic perceptions. But, we don't know how much of this effect is due to the political survey context. I conduct an experiment where I vary the survey context and show that political surveys worsen this bias.
+\end{minipage}
+
+# Conference Papers
+
+* \begin{minipage}[t]{\linewidth}
+\textbf{Causal Inference for Ordinal Outcome Variables} \hfill 2020 \\
+\emph{PSA Political Methodology Conference}
+\end{minipage}
+* \begin{minipage}[t]{\linewidth}
+\textbf{The Behaviour of Gay, Lesbian, and Bisexual Voters in Britain} \hfill 2019 \\
+\emph{American Political Science Association Conference}
+\end{minipage}
+* \begin{minipage}[t]{\linewidth}
+\textbf{The Behaviour of Gay, Lesbian, and Bisexual Voters in Britain} \hfill 2019 \\
+\emph{Political Studies Association Conference}
+\end{minipage}
+* \begin{minipage}[t]{\linewidth}
+\textbf{The Fact Remains: Party ID Moderates How Voters Respond to Economic Change} \hfill 2019 \\
+\emph{Political Studies Association Conference}
+\end{minipage}
+* \begin{minipage}[t]{\linewidth}
+\textbf{Structural Equation Modelling for Political Research} \hfill 2018 \\
+\emph{PSA Political Psychology Conference}
+\end{minipage}
+* \begin{minipage}[t]{\linewidth}
+\textbf{Competing Competence: A New Model of the Economic Vote} \hfill 2018 \\
+\emph{Elections, Public Opinion, and Parties Conference}
+\end{minipage}
+* \begin{minipage}[t]{\linewidth}
+\textbf{Affective Asymmetry: Party ID Moderates Voters’ Responsiveness to Economic Change} \hfill 2018 \\
+\emph{Political Studies Association Early Careers Network Conference}
+\end{minipage}
+
+# Funding and Awards
+
+* Leuven-Montréal Winter School, Victor D'Hondt Prize for Best Paper (€500) \hfill 2019
+* PSA ECN Conference, Best Paper \hfill 2018
+* YouGov, Survey Funding (£60,000) \hfill 2017--2020
+* YouGov, Travel and Accommodation Research Funding (£5,000) \hfill 2017--2020
+* ESRC, Data Science Stipend (£9,000) \hfill 2017--2020
+* ESRC, CASE Studentship (£58,494) \hfill 2017--2020
+
+# Teaching
+* Introduction to Data Analysis 1 (Instructor) \hfill 2019
+* Introduction to Data Analysis 2 (Instructor) \hfill 2019
+* Structural Equation Modelling using MPlus (TA) \hfill 2019
+* Making Sense of Politics (TA) \hfill 2017--2019
+* Researching Culture and Society (TA) \hfill 2018
+* Longitudinal Data Analysis (TA) \hfill 2018
+* Introduction to Longitudinal Data Analysis (TA) \hfill 2018
+* Introduction to \texttt{R} (TA) \hfill 2017
+
+# Methods Training
+
+* Bayesian Methods, University of Lancaster \hfill 2018
+* Methods for Missing Data, University of Lancaster \hfill 2018
+* Longitudinal Data Analysis, University of Manchester \hfill 2017
+* Multilevel Modelling, University of Manchester \hfill 2017
+* Structural Equation and Latent Variable Modelling, University of Manchester \hfill 2017
+* Social Network Analysis, University of Manchester \hfill 2017
+* Survey Methods, University of Manchester \hfill 2016
+
+# Appointments and Work Experience
+
+* Research Assistant, British Election Study \hfill 2017--2019
+* Communications Manager, Cardiff University \hfill 2014--2016
+* Communications Officer, LSE \hfill 2012--2014
+
+# Additional Skills, Experience, and Service
+
+* Key skills include statistical analysis, the ``R`` programming language, longitudinal and panel data, structural equation and latent variable modelling, experiments and causal inference, and Bayesian statistics
+* Experience organising events including a small conference on the 2017 UK general election and numerous large-scale public lectures and events
+* Four years of experience at LSE and Cardiff University working on knowledge exchange projects
+* Member of the American Political Science Association and the Political Studies Association
+* Reviewer for *Electoral Studies*
+
+# References
+
+\begin{minipage}[t]{0.45\linewidth}
+\textbf{Prof Edward Fieldhouse}\\
+Professor of Social and Political Science,\\
+University of Manchester
+\emph{ed.fieldhouse@manchester.ac.uk}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.45\linewidth}
+\textbf{Dr Marta Cantijoch Cunill}\\
+Lecturer in Political Science,\\
+University of Manchester
+\emph{marta.cantijoch@manchester.ac.uk}
+\end{minipage}
+
+\vspace{.5cm}
+
+\begin{minipage}[t]{0.45\linewidth}
+\textbf{Dr Jonathan Mellon}\\
+Hallsworth Research Fellow,\\
+University of Manchester
+\emph{jonathan.mellon@manchester.ac.uk}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.45\linewidth}
+\textbf{Prof Christopher Wlezien}\\
+Hogg Professor of Government,\\
+The University of Texas at Austin
+\emph{wlezien@austin.utexas.edu}
+\end{minipage}

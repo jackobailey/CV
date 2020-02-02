@@ -1,0 +1,46 @@
+% Jack Baiiley's R Markdown Preamble ----------
+
+% Text and Typography ----------
+
+% Specify fonts
+\setsansfont{Cabin}
+\setmainfont{EB Garamond}
+\setmonofont{Fira Code}
+
+
+% --- Styles -----------------------
+
+\setlength\parindent{0pt}
+
+% Call 'titling' package to adjust titles, etc.
+\usepackage{titling}
+
+% Format title
+\pretitle{\begin{center} \Huge \sffamily \bfseries}
+\posttitle{\par\end{center}}
+
+% Format author field
+\preauthor{\begin{center} \normalsize}
+\postauthor{\par\end{center}}
+
+% Format data field
+\predate{\begin{center} \normalsize}
+\postdate{\par\end{center}}
+
+% Format abstract title
+\usepackage{abstract}
+\renewcommand{\abstractname}{\sffamily \bfseries Abstract} 
+\renewcommand{\abstracttextfont}{\noindent \ignorespaces}
+
+
+%  --- SECTION STYLES --- 
+\usepackage[small, sf, bf]{titlesec}
+
+% Format section styles
+\titleformat*{\section}{\Large \sffamily \bfseries}
+\titleformat*{\subsection}{\sffamily \bfseries  \itshape}
+\titleformat*{\subsubsection}{\sffamily \itshape}
+\titleformat*{\paragraph}{\sffamily \bfseries}
+
+% Prevent bookdown trying to make the text fill the whole page
+\raggedbottom

@@ -119,7 +119,7 @@ Bailey, J. (2019). The fact remains: Party ID moderates how voters respond to ec
 * Methods for Missing Data, University of Lancaster \hfill 2018
 * Longitudinal Data Analysis, University of Manchester \hfill 2017
 * Multilevel Modelling, University of Manchester \hfill 2017
-* Structural Equation and Latent Variable Modelling, University of Manchester \hfill 2017
+* Structural Equation Modelling, University of Manchester \hfill 2017
 * Social Network Analysis, University of Manchester \hfill 2017
 * Survey Methods, University of Manchester \hfill 2016
 

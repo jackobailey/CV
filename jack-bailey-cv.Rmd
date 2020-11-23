@@ -57,14 +57,28 @@ output:
 
 # Peer Reviewed Publications
 
-Bailey, J. (2019). The fact remains: Party ID moderates how voters respond to economic change. *Electoral Studies*, 61(1), Available at: https://doi.org/10.1016/j.electstud.2019.102071
+Fieldhouse, E.; Cutts, D. & **Bailey, J.** (2020). Who cares if you vote? Partisan pressure and social norms of voting. *Political Behavior*.\
+\
+**Bailey, J.** (2019). The fact remains: Party ID moderates how voters respond to economic change. *Electoral Studies*, 61(102071). Available at: https://doi.org/10.1016/j.electstud.2019.102071.
 
+
+# Manuscripts Under Review
+
+**Bailey, J.** Political Surveys Bias Self-Reported Economic Perceptions. Revise and resubmit at *Public Opinion Quarterly*.\
+\
+**Bailey, J.**; Sanders, A.; Barclay, A. & McDonnell A. Voting at the Intersection of Sexuality and Gender.
+
+# Working Papers
+
+**Bailey, J.** What's the Half-Life of the Economic Vote? (About a Year and a Half). Available at: https://github.com/jackobailey/econ_half_life. \
+\
+Mellon, J.; **Bailey, J.** & Prosser, C. How Do Coronavirus Attitudes Fit into Britain's Ideological Landscape? Available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3733882.
 
 # Select Conference Papers and Invited Presentations
 
 \begin{minipage}[t]{\linewidth}
 \textbf{Voting at the Intersection of Sexuality and Gender} \hfill Oct. 2020 \\
-\emph{Queer Politics Webinar Series, Princeton University}\\
+\emph{Queer Politics at Princeton, Princeton University}\\
 \end{minipage}
 
 \begin{minipage}[t]{\linewidth}
@@ -142,11 +156,11 @@ Bailey, J. (2019). The fact remains: Party ID moderates how voters respond to ec
 
 # Additional Skills, Experience, and Service
 
-* Key skills include statistical analysis, the R programming language, longitudinal and panel data, structural equation and latent variable modelling, experiments and causal inference, and Bayesian statistics
+* Key skills include statistical analysis, the R programming language, the Stan probabilistic programming language, longitudinal and panel data, structural equation and latent variable modelling, experiments and causal inference, and Bayesian statistics
 * Experience organising events including a small conference on the 2017 UK general election and numerous large-scale public lectures and events
-* Four years of experience at LSE and Cardiff University working on knowledge exchange projects
-* Member of the American Political Science Association and the Political Studies Association
-* Reviewer for *The American Political Science Review* and *Electoral Studies*
+* Four years experience at LSE and Cardiff University on knowledge exchange projects
+* American Political Science Association and Political Studies Association member
+* Reviewer for *The American Political Science Review*, *The International Journal of Forecasting*, and *Electoral Studies*
 
 
 # References

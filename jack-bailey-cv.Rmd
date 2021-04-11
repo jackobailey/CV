@@ -57,24 +57,34 @@ output:
 
 # Peer Reviewed Publications
 
-Fieldhouse, E.; Cutts, D. & **Bailey, J.** (2020). Who cares if you vote? Partisan pressure and social norms of voting. *Political Behavior*.\
-\
+Mellon, J.; **Bailey, J.** & Prosser, C. How Do Coronavirus Attitudes Fit into Britain's Ideological Landscape? *Parliamentry Affairs*.
+
+Fieldhouse, E.; Cutts, D. & **Bailey, J.** (2020). Who cares if you vote? Partisan pressure and social norms of voting. *Political Behavior*.
+
 **Bailey, J.** (2019). The fact remains: Party ID moderates how voters respond to economic change. *Electoral Studies*, 61(102071). Available at: https://doi.org/10.1016/j.electstud.2019.102071.
 
 
 # Manuscripts Under Review
 
-**Bailey, J.** Political Surveys Bias Self-Reported Economic Perceptions. Revise and resubmit at *Public Opinion Quarterly*.\
-\
+**Bailey, J.** Political Surveys Bias Self-Reported Economic Perceptions. Revise and resubmit at *Public Opinion Quarterly*.
+
 **Bailey, J.**; Sanders, A.; Barclay, A. & McDonnell A. Voting at the Intersection of Sexuality and Gender.
 
 # Working Papers
 
-**Bailey, J.** What's the Half-Life of the Economic Vote? (About a Year and a Half). Available at: https://github.com/jackobailey/econ_half_life. \
-\
-Mellon, J.; **Bailey, J.** & Prosser, C. How Do Coronavirus Attitudes Fit into Britain's Ideological Landscape? Available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3733882.
+**Bailey, J.** What's the Half-Life of the Economic Vote? (About a Year and a Half). Available at: https://github.com/jackobailey/econ_half_life.
 
 # Select Conference Papers and Invited Presentations
+
+\begin{minipage}[t]{\linewidth}
+\textbf{What's the Half-Life of the Economic Vote? (About a Year and a Half)} \hfill Apr. 2021 \\
+\emph{Midwest Political Science Assocation Conference, 2021}\\
+\end{minipage}
+
+\begin{minipage}[t]{\linewidth}
+\textbf{What's the Half-Life of the Economic Vote? (About a Year and a Half)} \hfill Oct. 2020 \\
+\emph{Political Behaviour Colloquium, European University Institute}\\
+\end{minipage}
 
 \begin{minipage}[t]{\linewidth}
 \textbf{Voting at the Intersection of Sexuality and Gender} \hfill Oct. 2020 \\

@@ -57,22 +57,34 @@ output:
 
 # Peer Reviewed Publications
 
-Mellon, J.; **Bailey, J.** & Prosser, C. How Do Coronavirus Attitudes Fit into Britain's Ideological Landscape? *Parliamentry Affairs*.
+\begin{minipage}[t]{\linewidth}
+Bailey, J. Political Surveys Bias Self-Reported Economic Perceptions. \emph{Public Opinion Quarterly}. Available at: https://doi.org/10.33774/apsa-2021-13lpq.\\
+\end{minipage}
 
-Fieldhouse, E.; Cutts, D. & **Bailey, J.** (2020). Who cares if you vote? Partisan pressure and social norms of voting. *Political Behavior*.
+\begin{minipage}[t]{\linewidth}
+Mellon, J.; Bailey, J. \& Prosser, C. How Do Coronavirus Attitudes Fit into Britain's Ideological Landscape? \emph{Parliamentry Affairs}. Available at: https://doi.org/10.1093/pa/gsab030.\\
+\end{minipage}
 
-**Bailey, J.** (2019). The fact remains: Party ID moderates how voters respond to economic change. *Electoral Studies*, 61(102071). Available at: https://doi.org/10.1016/j.electstud.2019.102071.
+\begin{minipage}[t]{\linewidth}
+Fieldhouse, E.; Cutts, D. \& Bailey, J. (2020). Who cares if you vote? Partisan pressure and social norms of voting. \emph{Political Behavior}. Available at: https://doi.org/10.1007/s11109-020-09661-y.\\
+\end{minipage}
 
+\begin{minipage}[t]{\linewidth}
+Bailey, J. (2019). The fact remains: Party ID moderates how voters respond to economic change. \emph{Electoral Studies}, 61(102071). Available at: https://doi.org/10.1016/j.electstud.2019.102071.\\
+\end{minipage}
 
 # Manuscripts Under Review
 
-**Bailey, J.** Political Surveys Bias Self-Reported Economic Perceptions. Revise and resubmit at *Public Opinion Quarterly*.
-
-**Bailey, J.**; Sanders, A.; Barclay, A. & McDonnell A. Voting at the Intersection of Sexuality and Gender.
+\begin{minipage}[t]{\linewidth}
+Bailey, J.; Sanders, A.; Barclay, A. \& McDonnell A. Voting at the Intersection of Sexuality and Gender.\\
+\end{minipage}
 
 # Working Papers
 
-**Bailey, J.** What's the Half-Life of the Economic Vote? (About a Year and a Half). Available at: https://github.com/jackobailey/econ_half_life.
+\begin{minipage}[t]{\linewidth}
+Bailey, J. What's the Half-Life of the Economic Vote? (About a Year and a Half). Available at: https://doi.org/10.33774/apsa-2021-kdrwl-v3\\
+\end{minipage}
+
 
 # Select Conference Papers and Invited Presentations
 
@@ -134,6 +146,7 @@ Fieldhouse, E.; Cutts, D. & **Bailey, J.** (2020). Who cares if you vote? Partis
 
 # Funding and Awards
 
+* UoM Faculty of Humanities Award for Distinguished Achievement (£100) \hfill 2021
 * Leuven-Montréal Winter School, Best Paper (€500) \hfill 2019
 * PSA ECN Conference, Best Paper \hfill 2018
 * YouGov, Survey Funding (£60,000) \hfill 2017--2020
@@ -143,6 +156,7 @@ Fieldhouse, E.; Cutts, D. & **Bailey, J.** (2020). Who cares if you vote? Partis
 
 
 # Teaching
+* Understanding Political Change (Instructor) \hfill 2021
 * Introduction to Data Analysis 1 (Instructor) \hfill 2019
 * Introduction to Data Analysis 2 (Instructor) \hfill 2019
 * Structural Equation Modelling using MPlus (TA) \hfill 2019

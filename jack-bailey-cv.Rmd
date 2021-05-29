@@ -58,11 +58,11 @@ output:
 # Peer Reviewed Publications
 
 \begin{minipage}[t]{\linewidth}
-Bailey, J. Political Surveys Bias Self-Reported Economic Perceptions. \emph{Public Opinion Quarterly}. Available at: https://doi.org/10.33774/apsa-2021-13lpq.\\
+Bailey, J. (2021). Political Surveys Bias Self-Reported Economic Perceptions. \emph{Public Opinion Quarterly}. Available at: https://doi.org/10.33774/apsa-2021-13lpq.\\
 \end{minipage}
 
 \begin{minipage}[t]{\linewidth}
-Mellon, J.; Bailey, J. \& Prosser, C. How Do Coronavirus Attitudes Fit into Britain's Ideological Landscape? \emph{Parliamentry Affairs}. Available at: https://doi.org/10.1093/pa/gsab030.\\
+Mellon, J.; Bailey, J. \& Prosser, C. (2021). How Do Coronavirus Attitudes Fit into Britain's Ideological Landscape? \emph{Parliamentry Affairs}. Available at: https://doi.org/10.1093/pa/gsab030.\\
 \end{minipage}
 
 \begin{minipage}[t]{\linewidth}

@@ -21,6 +21,7 @@ output:
 ---
 
 # Appointments
+
 \begin{minipage}[t]{\linewidth}
 \textbf{Research Associate on the British Election Study} \hfill 2020--2023\\
 \emph{The University of Manchester}\\
@@ -190,14 +191,14 @@ Bailey, J. What's the Half-Life of the Economic Vote? (About a Year and a Half).
 # References
 
 \begin{minipage}[t]{0.45\linewidth}
-\textbf{Prof Edward Fieldhouse}\\
+\textbf{Prof. Edward Fieldhouse}\\
 Professor of Social and Political Science,\\
 University of Manchester\\
 \emph{ed.fieldhouse@manchester.ac.uk}
 \end{minipage}
 \hfill
 \begin{minipage}[t]{0.45\linewidth}
-\textbf{Dr Marta Cantijoch Cunill}\\
+\textbf{Dr. Marta Cantijoch Cunill}\\
 Lecturer in Political Science,\\
 University of Manchester\\
 \emph{marta.cantijoch@manchester.ac.uk}
@@ -206,14 +207,14 @@ University of Manchester\\
 \vspace{.5cm}
 
 \begin{minipage}[t]{0.45\linewidth}
-\textbf{Dr Jonathan Mellon}\\
+\textbf{Dr. Jonathan Mellon}\\
 Senior Lecturer in Political Science,\\
 University of Manchester\\
 \emph{jonathan.mellon@manchester.ac.uk}
 \end{minipage}
 \hfill
 \begin{minipage}[t]{0.45\linewidth}
-\textbf{Prof Christopher Wlezien}\\
+\textbf{Prof. Christopher Wlezien}\\
 Hogg Professor of Government,\\
 The University of Texas at Austin\\
 \emph{wlezien@austin.utexas.edu}

@@ -77,13 +77,15 @@ Bailey, J. (2019). The fact remains: Party ID moderates how voters respond to ec
 # Manuscripts Under Review
 
 \begin{minipage}[t]{\linewidth}
-Bailey, J.; Sanders, A.; Barclay, A. \& McDonnell A. Voting at the Intersection of Sexuality and Gender.\\
+Bailey, J. What's the Half-Life of the Economic Vote? (About a Year and a Half). Available at: https://doi.org/10.33774/apsa-2021-kdrwl-v3\\
 \end{minipage}
 
-# Working Papers
+\begin{minipage}[t]{\linewidth}
+Bailey, J.; Pack, M.; and Mansillo, L. PollBasePro: Daily Estimates of Aggregate Voting Intention in Britain from 1955 to the Present Day. Available at: https://doi.org/10.33774/apsa-2021-2hbgw-v2\\
+\end{minipage}
 
 \begin{minipage}[t]{\linewidth}
-Bailey, J. What's the Half-Life of the Economic Vote? (About a Year and a Half). Available at: https://doi.org/10.33774/apsa-2021-kdrwl-v3\\
+Bailey, J.; Sanders, A.; Barclay, A. \& McDonnell A. Voting at the Intersection of Sexuality and Gender.\\
 \end{minipage}
 
 

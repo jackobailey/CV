@@ -36,7 +36,7 @@ output:
 # Education
 
 \begin{minipage}[t]{\linewidth}
-\textbf{PhD Politics} \hfill 2017--Present\\
+\textbf{PhD Politics} \hfill 2017--2022\\
 \emph{The University of Manchester}\\
 \end{minipage}
 

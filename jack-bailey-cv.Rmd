@@ -70,7 +70,7 @@ Fieldhouse, E.; Green, J.; Evans. G.; Mellon, J.; Prosser, C.; and Bailey, J. (2
 # Peer Reviewed Publications
 
 \begin{minipage}[t]{\linewidth}
-Fieldhouse, E. and Bailey, J. (2023). A New Electoral Map? Brexit, Realignment and the Changing Geography of Party Support in England. \emph{Political Geography}.\\
+Fieldhouse, E. and Bailey, J. (2023). A New Electoral Map? Brexit, Realignment and the Changing Geography of Party Support in England. \emph{Political Geography}. Available at: https://doi.org/10.1016/j.polgeo.2023.102862.\\
 \end{minipage}
 
 \begin{minipage}[t]{\linewidth}

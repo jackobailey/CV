@@ -23,6 +23,11 @@ output:
 # Appointments
 
 \begin{minipage}[t]{\linewidth}
+\textbf{Lecturer in Quantitative Politics} \hfill 2023--Present\\
+\emph{The University of Manchester}\\
+\end{minipage}
+
+\begin{minipage}[t]{\linewidth}
 \textbf{Research Associate on the British Election Study} \hfill 2020--2023\\
 \emph{The University of Manchester}\\
 \end{minipage}
@@ -41,12 +46,12 @@ output:
 \end{minipage}
 
 \begin{minipage}[t]{\linewidth}
-\textbf{PGDip Social Research Methods and Statistics (Distinction)} \hfill 2016--2017\\
+\textbf{PGDip Social Research Methods and Statistics} \hfill 2016--2017\\
 \emph{The University of Manchester}\\
 \end{minipage}
 
 \begin{minipage}[t]{\linewidth}
-\textbf{MA Politics (Distinction)} \hfill 2011--2012 \\
+\textbf{MA Politics} \hfill 2011--2012 \\
 \emph{The University of Sheffield}\\
 \end{minipage}
 
@@ -56,14 +61,24 @@ output:
 \end{minipage}
 
 
+# Book Projects
+
+\begin{minipage}[t]{\linewidth}
+Fieldhouse, E.; Green, J.; Evans. G.; Mellon, J.; Prosser, C.; and Bailey, J. (2024). \emph{Electoral Realignment}. Under contract at Oxford University Press\\
+\end{minipage}
+
 # Peer Reviewed Publications
+
+\begin{minipage}[t]{\linewidth}
+Fieldhouse, E. and Bailey, J. (2023). A New Electoral Map? Brexit, Realignment and the Changing Geography of Party Support in England. \emph{Political Geography}.\\
+\end{minipage}
 
 \begin{minipage}[t]{\linewidth}
 Bailey, J. (2021). Political Surveys Bias Self-Reported Economic Perceptions. \emph{Public Opinion Quarterly}. Available at: https://doi.org/10.33774/apsa-2021-13lpq.\\
 \end{minipage}
 
 \begin{minipage}[t]{\linewidth}
-Mellon, J.; Bailey, J. \& Prosser, C. (2021). How Do Coronavirus Attitudes Fit into Britain's Ideological Landscape? \emph{Parliamentry Affairs}. Available at: https://doi.org/10.1093/pa/gsab030.\\
+Mellon, J.; Bailey, J. \& Prosser, C. (2021). How Do Coronavirus Attitudes Fit into Britain's Ideological Landscape? \emph{Parliamentary Affairs}. Available at: https://doi.org/10.1093/pa/gsab030.\\
 \end{minipage}
 
 \begin{minipage}[t]{\linewidth}
@@ -76,20 +91,50 @@ Bailey, J. (2019). The fact remains: Party ID moderates how voters respond to ec
 
 # Manuscripts Under Review
 
+<!-- \begin{minipage}[t]{\linewidth} -->
+<!-- Bailey, J.; Pack, M.; and Mansillo, L. PollBasePro: Daily Estimates of Aggregate Voting Intention in Britain from 1955 to the Present Day. Under review at \emph{Electoral Studies}. Available at: https://doi.org/10.33774/apsa-2021-2hbgw-v2\\ -->
+<!-- \end{minipage} -->
+
+\begin{minipage}[t]{\linewidth}
+Bailey, J. Common Retrospective Economic Perception Items Show Good Test-Retest Reliability. Under review at \emph{The Journal of Elections, Public Opinion, and Parties}. Under review at \emph{Research \& Politics}. Available at: https://doi.org/10.33774/apsa-2022-nhhsv-v2\\
+\end{minipage}
+
+# Working Papers
+
+\begin{minipage}[t]{\linewidth}
+Mellon, J., Bailey, J., Scott, R., Breckwoldt, J., \& Miori, M. Do LLMs know what the Most Important Issue is? Using Large Language Models to Code Open-Text Social Survey Responses At Scale. Available at: https://ssrn.com/abstract=4310154\\
+\end{minipage}
+
+\begin{minipage}[t]{\linewidth}
+Fieldhouse, E., Bailey, J., \& Prosser, C. Campaign Slogans, Political Identities, and Emotional Responses.
+\end{minipage}
+
 \begin{minipage}[t]{\linewidth}
 Bailey, J. What's the Half-Life of the Economic Vote? (About a Year and a Half). Available at: https://doi.org/10.33774/apsa-2021-kdrwl-v3\\
 \end{minipage}
 
-\begin{minipage}[t]{\linewidth}
-Bailey, J.; Pack, M.; and Mansillo, L. PollBasePro: Daily Estimates of Aggregate Voting Intention in Britain from 1955 to the Present Day. Available at: https://doi.org/10.33774/apsa-2021-2hbgw-v2\\
-\end{minipage}
+<!-- \begin{minipage}[t]{\linewidth} -->
+<!-- Bailey, J.; Sanders, A.; Barclay, A. \& McDonnell A. Voting at the Intersection of Sexuality and Gender.\\ -->
+<!-- \end{minipage} -->
 
-\begin{minipage}[t]{\linewidth}
-Bailey, J.; Sanders, A.; Barclay, A. \& McDonnell A. Voting at the Intersection of Sexuality and Gender.\\
-\end{minipage}
+# Funding and Awards
+
+* UoM Faculty of Humanities Award for Distinguished Achievement (£100) \hfill 2021
+* NWSSDTP/ESRC Overseas Institutional Visit Funding (£4,000) \hfill 2019
+* Leuven-Montréal Winter School, Best Paper (€500) \hfill 2019
+* PSA ECN Conference, Best Paper \hfill 2018
+* YouGov, Survey Funding (£60,000) \hfill 2017--2020
+* YouGov, Travel and Accommodation Research Funding (£5,000) \hfill 2017--2020
+* ESRC, Data Science Stipend (£9,000) \hfill 2017--2020
+* ESRC, CASE Studentship (£58,494) \hfill 2017--2020
 
 
 # Select Conference Papers and Invited Presentations
+
+\begin{minipage}[t]{\linewidth}
+\textbf{What's the Half-Life of the Economic Vote? (About a Year and a Half)} \hfill Mar. 2023 \\
+\emph{DPIR Politics Colloquium, Oxford University}\\
+\end{minipage}
 
 \begin{minipage}[t]{\linewidth}
 \textbf{What's the Half-Life of the Economic Vote? (About a Year and a Half)} \hfill Apr. 2021 \\
@@ -147,29 +192,17 @@ Bailey, J.; Sanders, A.; Barclay, A. \& McDonnell A. Voting at the Intersection 
 <!-- \end{minipage} -->
 
 
-# Funding and Awards
-
-* UoM Faculty of Humanities Award for Distinguished Achievement (£100) \hfill 2021
-* NWSSDTP/ESRC Overseas Institutional Visit Funding (£4,000) \hfill 2019
-* Leuven-Montréal Winter School, Best Paper (€500) \hfill 2019
-* PSA ECN Conference, Best Paper \hfill 2018
-* YouGov, Survey Funding (£60,000) \hfill 2017--2020
-* YouGov, Travel and Accommodation Research Funding (£5,000) \hfill 2017--2020
-* ESRC, Data Science Stipend (£9,000) \hfill 2017--2020
-* ESRC, CASE Studentship (£58,494) \hfill 2017--2020
-
-
 # Teaching
 
-* Understanding Political Change (Instructor) \hfill 2021
-* Introduction to Data Analysis 1 (Instructor) \hfill 2019
-* Introduction to Data Analysis 2 (Instructor) \hfill 2019
-* Structural Equation Modelling using MPlus (TA) \hfill 2019
-* Making Sense of Politics (TA) \hfill 2017--2019
-* Researching Culture and Society (TA) \hfill 2018
-* Longitudinal Data Analysis (TA) \hfill 2018
-* Introduction to Longitudinal Data Analysis (TA) \hfill 2018
-* Introduction to R (TA) \hfill 2017
+* Understanding Political Change (Lecturer) \hfill 2021--Present
+* Introduction to Data Analysis 1 (Lecturer) \hfill 2019
+* Introduction to Data Analysis 2 (Lecturer) \hfill 2019
+* Structural Equation Modelling using MPlus (Teaching Assistant) \hfill 2019
+* Making Sense of Politics (Teaching Assistant) \hfill 2017--2019
+* Researching Culture and Society (Teaching Assistant) \hfill 2018
+* Longitudinal Data Analysis (Teaching Assistant) \hfill 2018
+* Introduction to Longitudinal Data Analysis (Teaching Assistant) \hfill 2018
+* Introduction to R (Teaching Assistant) \hfill 2017
 
 
 # Methods Training
@@ -185,7 +218,7 @@ Bailey, J.; Sanders, A.; Barclay, A. \& McDonnell A. Voting at the Intersection 
 
 # Additional Skills, Experience, and Service
 
-* Key skills include statistical analysis, the R programming language, the Stan probabilistic programming language, longitudinal and panel data, structural equation and latent variable modelling, experiments and causal inference, and Bayesian statistics
+* Key skills include statistical analysis, the R programming language, the Stan probabilistic programming language, the Stata and SPSS statistical software packages, longitudinal and panel data, structural equation and latent variable modelling, experiments and causal inference, and Bayesian statistics
 * Experience organising events including a small conference on the 2017 UK general election and numerous large-scale public lectures and events
 * Four years experience at LSE and Cardiff University on knowledge exchange projects
 * American Political Science Association and Political Studies Association member
@@ -202,24 +235,24 @@ University of Manchester\\
 \end{minipage}
 \hfill
 \begin{minipage}[t]{0.45\linewidth}
-\textbf{Dr. Marta Cantijoch Cunill}\\
-Lecturer in Political Science,\\
-University of Manchester\\
-\emph{marta.cantijoch@manchester.ac.uk}
+\textbf{Dr. Jonathan Mellon}\\
+Assistant Professor,\\
+US Military Academy West Point\\
+\emph{jonathan.mellon@westpoint.edu}
 \end{minipage}
 
 \vspace{.5cm}
 
 \begin{minipage}[t]{0.45\linewidth}
-\textbf{Dr. Jonathan Mellon}\\
-Senior Lecturer in Political Science,\\
-University of Manchester\\
-\emph{jonathan.mellon@manchester.ac.uk}
+\textbf{Prof. Geoffrey Evans}\\
+Professor of the Sociology of Politics,\\
+The University of Oxford\\
+\emph{geoffrey.evans@nuffield.ox.ac.uk}
 \end{minipage}
 \hfill
 \begin{minipage}[t]{0.45\linewidth}
-\textbf{Prof. Christopher Wlezien}\\
-Hogg Professor of Government,\\
-The University of Texas at Austin\\
-\emph{wlezien@austin.utexas.edu}
+\textbf{Prof. Jane Green}\\
+Professor of Political Science,\\
+The University of Oxford\\
+\emph{jane.green@nuffield.ox.ac.uk}
 \end{minipage}
